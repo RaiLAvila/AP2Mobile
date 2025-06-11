@@ -16,7 +16,7 @@ class Suporte : AppCompatActivity() {
 
         botaoLigar.setOnClickListener {
             val intent = Intent(Intent.ACTION_DIAL)
-            intent.data = Uri.parse("tel:21996572599")
+            intent.data = Uri.parse("tel:996572599")
             startActivity(intent)
         }
 

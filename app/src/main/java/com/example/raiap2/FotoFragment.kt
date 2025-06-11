@@ -28,7 +28,7 @@ class FotoFragment : Fragment() {
         }
 
         img3.setOnClickListener {
-            abrirImagemDetalhe(R.drawable.fotorai8, "Rai e seu fiel escudeiro Fellipe estão prontos para uma reunião. Rai, com seu cabelo bagunçado, mostra seu estilo único mesmo para um compromisso formal. Ao seu lado, Felipe, seu parceiro, está igualmente preparado. Ambos transmitem a postura de quem está prestes a embarcar em um encontro importante, com a seriedade necessária, mas sem perder a essência descontraída que os caracteriza.")
+            abrirImagemDetalhe(R.drawable.fotorai8, "Rai e seu fiel escudeiro Fellipe estão prontos para uma reunião. Rai, com seu cabelo bagunçado, mostra seu estilo único mesmo para um compromisso formal. Ao seu lado, Fellipe, seu parceiro, está igualmente preparado. Ambos transmitem a postura de quem está prestes a embarcar em um encontro importante, com a seriedade necessária, mas sem perder a essência descontraída que os caracteriza.")
         }
 
         return view

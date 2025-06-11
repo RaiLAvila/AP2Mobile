@@ -22,7 +22,7 @@
         android:id="@+id/textViewBio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Raí Lamper: O Cavaleiro do Código
+        android:text="Raí Lamper: O Cavaleiro do Código.
 Conheça Raí Lamper, o jovem prodígio de 19 anos que está revolucionando o mundo da programação! Como desenvolvedor apaixonado, Raí combina sua energia contagiante com um senso de humor inconfundível. Ele não é apenas bonito e carismático, mas também incrivelmente trabalhador e bondoso, sempre pronto para ajudar. Com um espírito cavaleiro e um coração gigante, Raí está construindo um futuro brilhante, um código por vez. Prepare-se para ser surpreendido por este talento em ascensão!"
         android:textAlignment="center"
         android:textColor="#000000"
